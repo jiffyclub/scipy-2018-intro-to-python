@@ -20,8 +20,9 @@ See the tutorial description on the conference website
 **We can help with further setup at the tutorial.**
 
 If you don't already have Anaconda installed, download and install Anaconda
-for **Python 3**:
+for **Python 3** (_not Python 2_):
 https://www.anaconda.com/download.
+
 If you're prompted to install VS Code we recommend you **do** install it
 unless you already have a code editor you prefer.
 
