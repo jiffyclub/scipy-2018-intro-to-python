@@ -79,9 +79,14 @@ file.
 
 - Exercise 1
 
+- Alyssa's colors:
+  - Hipster Peach = (255, 218, 185)
+  - Hipster Blue = (91, 133, 201)
+  - Hipster Green = (84, 184, 131)
+
 #### Basic Indexing
 
-- Assign the first block of `grid` to a variable and change it's color,
+- Assign the first block of `grid` to a variable and change its color,
   then display the grid.
 
         block = grid[0, 0]
@@ -210,7 +215,7 @@ Want to get into Python standard types.
 Exercise is to write a function that follows a list of directions
 through a grid changing colors as it goes.
 Students are expected to use a dictionary to map direction names
-('up', 'down', 'left', 'right') to changes in position 
+('up', 'down', 'left', 'right') to changes in position
 (e.g. `[0, -1]`, `[1, 0]`, etc).
 
 - Strings
